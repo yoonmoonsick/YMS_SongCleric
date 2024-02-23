@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="he5ca31e12647437bbe01dcc28192db96abd2" version="1">노래 권역</content>
+    <content contentuid="h5b1522b3bf5d44e0a5fc03f2ee39fab75g42" version="1">노래를 독창적으로 그들의 주요 신성 권역으로 채택하는 신은 그리 많지 않습니다. 신도가 숭배하는 신의 사도와 업적에 대한 노래를 통해 통해 신도의 영향력을 확장합니다. 음악과 이야기의 신들인 아폴로, 오딘, 릴리라, 그리고 밀릴과 같은 신들은 자신들의 신도들이 노래를 통해 영향력을 확장하도록 장려하는 경향이 있습니다. 이러한 신들은 자신들의 신도들을 통해 근심을 겪는 사람들에게 자신들의 신이 제시할 수 있는 긍정적인 미래에 대한 노래를 부르고, 그 결과로 사람들의 삶을 더욱 풍요롭게 만들도록 장려합니다.</content>
+    <content contentuid="h47131e442f7648bcbb6a4ef30748152a701d" version="1">노래</content>
+    <content contentuid="h93f777e449ab4ac8a02dd2db88854c5266ba" version="1">경건한 가스펠</content>
+    <content contentuid="h7d86fcbe69844fb0b4a2ff033f3e23b67607" version="1">&lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;을 사용할 수 있습니다.</content>
+    <content contentuid="h5ff766d2e7764ece8e0e662c393c9e3c7d80" version="1">아군을 격려해 다음 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이나 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 +[1] 보너스를 줍니다.</content>
+    <content contentuid="h0e551ad03d134847a0a375d0febdf0aeg3gf" version="1">노래 권역 클레릭은 신성한 노래로 아군의 사기를 북돋을 수 있습니다. 자신의 &lt;LSTag Tooltip="Wisdom"&gt;지혜&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;보정치&lt;/LSTag&gt;와 같은 횟수가 충전되며, &lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;을 취하면 &lt;LSTag Type="ActionResource" Tooltip="GodlyGospelResource"&gt;경건한 가스펠&lt;/LSTag&gt;이 모두 회복됩니다.</content>
+    <content contentuid="h93655c16e35d4824bfa45b1a423c8e28547a" version="1">향상된 경건한 가스펠</content>
+    <content contentuid="h71f4eae22e434d2e97fcc99edbda71735b27" version="1">&lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;이나 &lt;LSTag Tooltip="ShortRest"&gt;짧은 휴식&lt;/LSTag&gt;을 취하면 &lt;LSTag Type="ActionResource" Tooltip="YMS_Resource_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;이 모두 회복됩니다.</content>
+    <content contentuid="h189ffff41d894782892b4b3e018f9e00a92b" version="1">경건한 가스펠을 사용해 다음 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이나 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 +[1] 보너스를 받을 수 있습니다.</content>
+    <content contentuid="h700f8e4dbf304c4386aab2c83e5d4165f78a" version="1">경건한 굴림</content>
+    <content contentuid="h16da3aa90f9f4e13bf09bcdf538545f2ge02" version="1">다음 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;에 +[1] 보너스를 더합니다.</content>
+    <content contentuid="h9950b30bf64b4965b80e23de48d3da05a2d7" version="1">효과가 발동하면 &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;경건한 가스펠&lt;/LSTag&gt;을 소모합니다.</content>
+    <content contentuid="ha83d57bcdbc44edaa292f55a31cca5588b12" version="1">&lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 얻는 보너스가 +[1](으)로 증가합니다.</content>
+    <content contentuid="h67262de34fa24adea6e7bceee16f351cad02" version="1">성전의 가스펠</content>
+    <content contentuid="h29801fc08ba24423b2cde69fed9554b56cbf" version="1">&lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration_Combat"&gt;성전의 가스펠&lt;/LSTag&gt;를 사용할 수 있습니다.</content>
+    <content contentuid="h5d483fae08454212a7e683fd8c02febb72g3" version="1">성전의 굴림</content>
+    <content contentuid="hfd4cee3e7c7d421dac5e5882e6aa1b74826e" version="1">효과가 발동하면 &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION_COMBAT"&gt;성전의 가스펠&lt;/LSTag&gt;을 소모합니다.</content>
+    <content contentuid="h1e40bdb0ddfd4338b37b4d64491d341eaeb6" version="1">경건한 가스펠으로 다음 &lt;LSTag Tooltip="AttackRoll"&gt;명중 굴림&lt;/LSTag&gt;이나 &lt;LSTag Tooltip="AbilityCheck"&gt;능력 판정&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;내성 굴림&lt;/LSTag&gt;에 +[1] 보너스를 더할 수 있습니다.&lt;br&gt;&lt;br&gt;또한 다음 무기 공격이나, 피격 1회에 한해 &lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;에 +[1] 보너스를 받을 수도 있습니다.</content>
+    <content contentuid="h9912a85eb71342ef85305e3c2288d9bega07" version="1">공격의 가스펠</content>
+    <content contentuid="h184d8d3040b44093af84e5c58a9a81cbabf4" version="1">&lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;경건한 가스펠&lt;/LSTag&gt;을 소모합니다.</content>
+    <content contentuid="h0b18d1202ca146a4b82467d331c08ea0662f" version="1">방어의 가스펠</content>
+    <content contentuid="h0193db409f2e45b08daaf719c09eaf505d4d" version="1">용맹한 공격의 가스펠</content>
+    <content contentuid="hfc9b3f4bc5ed4f92b1010b5f4946b3e4bdee" version="1">&lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION_COMBAT"&gt;성전의 가스펠&lt;/LSTag&gt;을 소모합니다.</content>
+    <content contentuid="hb840b3504b6e4fbcb6845c2257b42247ee41" version="1">용맹한 방어의 가스펠</content>
+    <content contentuid="hf9f716f90e064de89eec399b75aae176d328" version="1">용맹한 피해의 가스펠</content>
+    <content contentuid="h9fd7f78f992743949bc5cd17cfa473cf4c0a" version="1">유혹의 노래</content>
+    <content contentuid="hade37583a59f42a08f4be2644589c5fbdae3" version="1">마법의 선율로 주변 크리처를 &lt;LSTag Type="Status" Tooltip="LURING_SONG"&gt;유혹&lt;/LSTag&gt;합니다. 행동, 보조 행동, 대응을 사용할 수 없고 이동 속도가 절반으로 감소합니다. &lt;br&gt;&lt;br&gt;행동 불능 상태가 되거나 집중이 깨지면 종료됩니다.</content>
+    <content contentuid="hb088893c6c0245e7bb2f0e924872ef96f943" version="1">감동적인 공연</content>
+    <content contentuid="heec73009a06b46f5adb1786bd62e139f9gcb" version="1">당신이 연주하는 멜로디가 모든 전투의 흐름을 바꿀 수 있습니다. 자신의 소리를 들을 수 있는 18m 이내의 아군에게 경건한 가스펠을 부여합니다.&lt;br&gt;&lt;br&gt;이 기능을 다시 사용하려면 긴 휴식을 취해야 합니다.</content>
+</contentList>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Morningstars);Proficiency(Flails)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Cleric" />
+                    <attribute id="PassivesAdded" type="LSString" value="DomainSpells;UnlockedSpellSlotLevel1" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(6cb9d731-a518-46f0-b20e-9e2bf18e6acd,2);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,3,0,,,,AlwaysPrepared);AddSpells(269d1a3b-eed8-4131-8901-a562238f5289);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+                    <attribute id="TableUUID" type="guid" value="64474b62-b4f5-46b3-b94a-c676c6da3116" />
+                    <attribute id="UUID" type="guid" value="1dbce574-fff1-49be-b7da-704f9b73cad9" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="4b5da2f5-b999-4623-8bff-a63df5560fb3" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="c54d7591-b305-4f22-b2a7-1bf5c4a3470a" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="f013d01b-3310-43f7-81bf-a51130442b5e" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="ebe18794-b5e1-41c4-befa-4b9d6922b0ec" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="6dec76d0-df22-411c-8a78-3d6fb843ae50" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="89bacf1b-8f15-4972-ada7-bf59c7c78441" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b9ccf90e-b35b-4b73-b896-8ed2d32ae8c6" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="f2613b3d-166a-4187-8e6a-921f762e016f" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="31d10f98-0d8b-4b3f-91e0-2bc7d59e90c2" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(YMS_Resource_BardicInspiration,0,0);Proficiency(Rapiers);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)" />
+                    <attribute id="PassivesAdded" type="LSString" value="DomainSpells;YMS_Passive_BardicInspiration;YMS_Passive_BardicInspirationAddition" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(7c16131c-6fb0-4c54-ab4d-09b13e6e9191,YMS_SongSpells,,,AlwaysPrepared);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="de4d2c42-a6ef-41c5-80c9-3749544b812f" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(32a16513-3d8a-4165-bbd9-f1ca36be588d,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="4c9c2a46-43a0-436e-ba63-af904a8782f0" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="YMS_Passive_CombatInspiration" />
+                    <attribute id="PassivesRemoved" type="LSString" value="YMS_Passive_BardicInspiration" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1ed54445-ba0d-4cbf-a7aa-86a698a6cfe7,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="80d8e13e-3a93-4fd6-94ff-647e61a242b6" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ecd6e129-7312-45fb-9eed-40523d110703,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="d80be5d0-7aee-4180-bfb4-6e4979621a30" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="YMS_Passive_FontOfInspiration" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="25353e62-ad80-42f5-947d-8043922c9b99" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(23489721-977d-40d1-8acf-e3e2ce232a46,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="cbe7bc05-1865-4975-83d6-1d073e979061" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="PotentSpellcasting" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="bcb03966-62f6-4a5f-bdf1-ea162e180288" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(71eda292-955e-44b7-85ee-7fe1d505f9e8,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="bf571c87-0c10-456b-8d0d-09a37330cc3b" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(db3d2d4a-3d1c-4964-9b45-afd866e51d4d,,,,AlwaysPrepared)" />
+                </node>
+                <node id="Progression">
+                    <attribute id="UUID" type="guid" value="efd41b24-fdd1-400e-9cd8-324ba48d0f33" />
+                    <attribute id="TableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+                    <attribute id="Name" type="LSString" value="YMS_Song" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(ec8c36c2-5cca-4589-a81a-aabce49f77bd,,,,AlwaysPrepared)" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

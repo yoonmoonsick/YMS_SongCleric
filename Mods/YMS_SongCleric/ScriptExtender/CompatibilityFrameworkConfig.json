@@ -1,0 +1,14 @@
+{
+  "FileVersion": 1,
+  "Progressions": [
+    {
+      "UUID": "1dbce574-fff1-49be-b7da-704f9b73cad9",
+      "Subclasses": [
+        {
+          "UUID": "f2613b3d-166a-4187-8e6a-921f762e016f",
+          "modGuid": "74cd6e21-ac94-4b01-a2dc-91c7b857ff18"
+        }
+      ]
+    }
+  ]
+}

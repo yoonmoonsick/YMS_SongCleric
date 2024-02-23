@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+				<node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="h0e551ad03d134847a0a375d0febdf0aeg3gf" version="1"/>
+                    <attribute id="DiceType" type="uint32" value="6"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h93f777e449ab4ac8a02dd2db88854c5266ba" version="1"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="YMS_Resource_BardicInspiration"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="a229fc6b-00ae-4253-9250-447ff982e92d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

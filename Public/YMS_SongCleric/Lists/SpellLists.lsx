@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 1" />
+          <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_Friends;Target_CharmPerson" />
+          <attribute id="UUID" type="guid" value="7c16131c-6fb0-4c54-ab4d-09b13e6e9191" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 2 channel divinity" />
+          <attribute id="Spells" type="LSString" value="YMS_Shout_SongOfRest" />
+          <attribute id="UUID" type="guid" value="32a16513-3d8a-4165-bbd9-f1ca36be588d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 3" />
+          <attribute id="Spells" type="LSString" value="Target_EnhanceAbility;Target_CalmEmotions" />
+          <attribute id="UUID" type="guid" value="1ed54445-ba0d-4cbf-a7aa-86a698a6cfe7" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 5" />
+          <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_Counterspell" />
+          <attribute id="UUID" type="guid" value="ecd6e129-7312-45fb-9eed-40523d110703" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 7" />
+          <attribute id="Spells" type="LSString" value="YMS_Shout_LuringSong;Target_Confusion" />
+          <attribute id="UUID" type="guid" value="23489721-977d-40d1-8acf-e3e2ce232a46" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 9" />
+          <attribute id="Spells" type="LSString" value="Target_InsectPlague;Target_DominatePerson" />
+          <attribute id="UUID" type="guid" value="71eda292-955e-44b7-85ee-7fe1d505f9e8" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 11" />
+          <attribute id="Spells" type="LSString" value="Target_IrresistibleDance" />
+          <attribute id="UUID" type="guid" value="db3d2d4a-3d1c-4964-9b45-afd866e51d4d" />
+        </node>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Cleric Song Domain 12 channel divinity" />
+          <attribute id="Spells" type="LSString" value="YMS_Shout_InspiringConcert" />
+          <attribute id="UUID" type="guid" value="ec8c36c2-5cca-4589-a81a-aabce49f77bd" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

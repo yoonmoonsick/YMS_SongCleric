@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="he5ca31e12647437bbe01dcc28192db96abd2" version="1">Song Domain</content>
+    <content contentuid="h5b1522b3bf5d44e0a5fc03f2ee39fab75g42" version="1">Few gods truly take on the domain of song as their primary domain, for it is a domain based on spreading the influence of a deity that the cleric worships, with tunes about the servants and deeds of the god. However, gods of music and stories, such as Apollo, Odin, Lliira, and Milil, are more likely to encourage their followers to spread their influence through song. Many of these deities encourage their clerics to go to homes caroling about the good path their deity can set the worried people on, and make their lives greater as a result.</content>
+    <content contentuid="h47131e442f7648bcbb6a4ef30748152a701d" version="1">Song</content>
+    <content contentuid="h93f777e449ab4ac8a02dd2db88854c5266ba" version="1">Godly Gospel</content>
+    <content contentuid="h7d86fcbe69844fb0b4a2ff033f3e23b67607" version="1">Can use &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;Godly Gospel&lt;/LSTag&gt;.</content>
+    <content contentuid="h5ff766d2e7764ece8e0e662c393c9e3c7d80" version="1">Inspire an ally to add a +[1] bonus to their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+    <content contentuid="h0e551ad03d134847a0a375d0febdf0aeg3gf" version="1">Through stirring holy music, clerics of the Song domain can inspire allies. You can use this feature a number of times equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (minimum of once), and you regain all expended uses of it when you finish a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+    <content contentuid="h93655c16e35d4824bfa45b1a423c8e28547a" version="1">Improved Godly Gospel</content>
+    <content contentuid="h71f4eae22e434d2e97fcc99edbda71735b27" version="1">You regain all your &lt;LSTag Type="ActionResource" Tooltip="YMS_Resource_BardicInspiration"&gt;Godly Gospel&lt;/LSTag&gt; after a &lt;LSTag Tooltip="LongRest"&gt;Long&lt;/LSTag&gt; or &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+    <content contentuid="h189ffff41d894782892b4b3e018f9e00a92b" version="1">Add a +[1] bonus to your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
+    <content contentuid="h700f8e4dbf304c4386aab2c83e5d4165f78a" version="1">Godly Roll</content>
+    <content contentuid="h16da3aa90f9f4e13bf09bcdf538545f2ge02" version="1">Add a +[1] bonus to your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;.</content>
+    <content contentuid="h9950b30bf64b4965b80e23de48d3da05a2d7" version="1">You expend your &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;Godly Gospel&lt;/LSTag&gt; when the effect triggers.</content>
+    <content contentuid="ha83d57bcdbc44edaa292f55a31cca5588b12" version="1">The bonus gained from &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;Godly Gospel&lt;/LSTag&gt; increases to +[1].</content>
+    <content contentuid="h67262de34fa24adea6e7bceee16f351cad02" version="1">Combat Gospel</content>
+    <content contentuid="h29801fc08ba24423b2cde69fed9554b56cbf" version="1">Can use &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration_Combat"&gt;Combat Gospel&lt;/LSTag&gt;.</content>
+    <content contentuid="h5d483fae08454212a7e683fd8c02febb72g3" version="1">Combat Godly Roll</content>
+    <content contentuid="hfd4cee3e7c7d421dac5e5882e6aa1b74826e" version="1">You expend your &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION_COMBAT"&gt;Combat Gospel&lt;/LSTag&gt; when the effect triggers.</content>
+    <content contentuid="h1e40bdb0ddfd4338b37b4d64491d341eaeb6" version="1">Add a +[1] bonus to their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;They can also choose a +[1] bonus to the damage their next weapon attack deals, or to their &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; for one attack.</content>
+    <content contentuid="h9912a85eb71342ef85305e3c2288d9bega07" version="1">Attack Gospel</content>
+    <content contentuid="h184d8d3040b44093af84e5c58a9a81cbabf4" version="1">You expend your &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;Godly Gospel&lt;/LSTag&gt;.</content>
+    <content contentuid="h0b18d1202ca146a4b82467d331c08ea0662f" version="1">Defence Gospel</content>
+    <content contentuid="h0193db409f2e45b08daaf719c09eaf505d4d" version="1">Valiant Attack Gospel</content>
+    <content contentuid="hfc9b3f4bc5ed4f92b1010b5f4946b3e4bdee" version="1">You expend your &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION_COMBAT"&gt;Combat Gospel&lt;/LSTag&gt;.</content>
+    <content contentuid="hb840b3504b6e4fbcb6845c2257b42247ee41" version="1">Valiant Defence Gospel</content>
+    <content contentuid="hf9f716f90e064de89eec399b75aae176d328" version="1">Valiant Damage Gospel</content>
+    <content contentuid="h9fd7f78f992743949bc5cd17cfa473cf4c0a" version="1">Luring Song</content>
+    <content contentuid="hade37583a59f42a08f4be2644589c5fbdae3" version="1">&lt;LSTag Type="Status" Tooltip="LURING_SONG"&gt;Lures&lt;/LSTag&gt; nearby creatures with a magical melody. Can't take Action, Bonus Action, and Reaction. Movement speed is halved. &lt;br&gt;&lt;br&gt;The song ends if you are incapacitated or lose concentration. </content>
+    <content contentuid="hb088893c6c0245e7bb2f0e924872ef96f943" version="1">Inspiring Concert</content>
+    <content contentuid="heec73009a06b46f5adb1786bd62e139f9gcb" version="1">The melodies you play can turn the tide in any fight. As an action, you can begin playing a divine concert, creatures within 60 feet of yourself that can hear you gains a Godly Gospel. &lt;br&gt;&lt;br&gt;After using this feature, you must take a long rest before doing so again.</content>
+</contentList>

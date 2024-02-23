@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="612" />
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6" />
+                    <attribute id="Level10" type="LSString" value="1d10" />
+                    <attribute id="Level5" type="LSString" value="1d8" />
+                    <attribute id="Name" type="FixedString" value="YMS_LevelMap_BardicInspiration" />
+                    <attribute id="PreferredClassUUID" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf" />
+                    <attribute id="UUID" type="guid" value="ededd35f-7274-4a3d-949d-4be902f71f14" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

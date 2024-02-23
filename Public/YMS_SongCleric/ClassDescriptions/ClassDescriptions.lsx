@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+          <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+          <attribute id="ClassEquipment" type="FixedString" value="YMS_EQP_CC_Song" />
+          <attribute id="Description" type="TranslatedString" handle="h5b1522b3bf5d44e0a5fc03f2ee39fab75g42" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="he5ca31e12647437bbe01dcc28192db96abd2" version="1" />
+          <attribute id="LearningStrategy" type="uint8" value="1" />
+          <attribute id="MustPrepareSpells" type="bool" value="true" />
+          <attribute id="Name" type="FixedString" value="YMS_Song" />
+          <attribute id="ParentGuid" type="guid" value="114e7aee-d1d4-4371-8d90-8a2080592faf" />
+          <attribute id="PrimaryAbility" type="uint8" value="5" />
+          <attribute id="ProgressionTableUUID" type="guid" value="02dedafb-f691-4091-8bba-72adf118d456" />
+          <attribute id="ShortName" type="TranslatedString" handle="h47131e442f7648bcbb6a4ef30748152a701d" version="1" />
+          <attribute id="SoundClassType" type="FixedString" value="Cleric" />
+          <attribute id="SpellCastingAbility" type="uint8" value="5" />
+          <attribute id="SpellList" type="guid" value="bb65d3d6-5f3b-4ed5-911e-1960496c34bc" />
+          <attribute id="UUID" type="guid" value="f2613b3d-166a-4187-8e6a-921f762e016f" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

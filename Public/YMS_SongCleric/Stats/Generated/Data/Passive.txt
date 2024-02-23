@@ -1,0 +1,146 @@
+new entry "YMS_Passive_BardicInspiration"
+type "PassiveData"
+data "DisplayName" "h93f777e449ab4ac8a02dd2db88854c5266ba"
+data "Description" "h7d86fcbe69844fb0b4a2ff033f3e23b67607"
+data "Icon" "PassiveFeature_YMS_Passive_BardicInspiration_Ability"
+data "Boosts" "UnlockSpell(YMS_Target_BardicInspiration);ProficiencyBonus(Skill,Performance)"
+
+new entry "YMS_Passive_BardicInspirationAddition"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "PriorityOrder" "2"
+data "Boosts" "ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 14)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 16)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 18)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 20)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 22)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 24)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 26)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 28)):ActionResource(YMS_Resource_BardicInspiration,1,0);IF(ConditionResult(context.Source.Wisdom >= 30)):ActionResource(YMS_Resource_BardicInspiration,1,0)"
+
+
+new entry "YMS_Passive_FontOfInspiration"
+type "PassiveData"
+data "DisplayName" "h93655c16e35d4824bfa45b1a423c8e28547a"
+data "Description" "h71f4eae22e434d2e97fcc99edbda71735b27"
+data "Icon" "PassiveFeature_FontOfInspiration"
+data "Properties" "Highlighted"
+data "BoostConditions" "not Combat()"
+data "Boosts" "ActionResourceReplenishTypeOverride(YMS_Resource_BardicInspiration,ShortRest)"
+
+
+new entry "YMS_Passive_BardicInspiration_Ability"
+type "PassiveData"
+data "DisplayName" "h700f8e4dbf304c4386aab2c83e5d4165f78a"
+data "Description" "h16da3aa90f9f4e13bf09bcdf538545f2ge02"
+data "DescriptionParams" "1d6"
+data "ExtraDescription" "h9950b30bf64b4965b80e23de48d3da05a2d7"
+data "TooltipUseCosts" "YMS_Resource_BardicInspiration:1"
+data "Icon" "PassiveFeature_YMS_Passive_BardicInspiration_Ability"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "Boosts" "RollBonus(SkillCheck,1d6);RollBonus(RawAbility,1d6)"
+data "StatsFunctorContext" "OnAbilityCheck"
+data "StatsFunctors" "RemoveStatus(SELF,YMS_BOOST_BARDIC_INSPIRATION)"
+data "ToggleOnEffect" "VFX_Spells_Cast_Bard_Generic_BodyFX_Passive_BardicInspiration_Ability_01:Dummy_BodyFX:;"
+
+new entry "YMS_Passive_BardicInspiration_Ability_d8"
+type "PassiveData"
+data "DisplayName" "h700f8e4dbf304c4386aab2c83e5d4165f78a"
+data "Description" "h97e12495geba7g467fg8116g51be2c994492"
+data "DescriptionParams" "1d8"
+data "ExtraDescription" "h9950b30bf64b4965b80e23de48d3da05a2d7"
+data "TooltipUseCosts" "YMS_Resource_BardicInspiration:1"
+data "Icon" "PassiveFeature_YMS_Passive_BardicInspiration_Ability"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "Boosts" "RollBonus(SkillCheck,1d8);RollBonus(RawAbility,1d8)"
+data "StatsFunctorContext" "OnAbilityCheck"
+data "StatsFunctors" "RemoveStatus(SELF,YMS_BOOST_BARDIC_INSPIRATION_D8)"
+data "ToggleOnEffect" "VFX_Spells_Cast_Bard_Generic_BodyFX_Passive_BardicInspiration_Ability_01:Dummy_BodyFX:;"
+
+new entry "YMS_Passive_BardicInspiration_d8"
+type "PassiveData"
+data "DisplayName" "h93655c16e35d4824bfa45b1a423c8e28547a"
+data "Description" "ha83d57bcdbc44edaa292f55a31cca5588b12"
+data "DescriptionParams" "1d8"
+data "Icon" "Action_Bard_GrantBardicInspiration"
+
+new entry "YMS_Passive_CombatInspiration"
+type "PassiveData"
+data "DisplayName" "h67262de34fa24adea6e7bceee16f351cad02"
+data "Description" "h29801fc08ba24423b2cde69fed9554b56cbf"
+data "Icon" "PassiveFeature_BardicInspiration_Damage"
+data "Boosts" "UnlockSpell(YMS_Target_BardicInspiration_Combat)"
+
+new entry "YMS_Passive_CombatInspiration_Ability"
+type "PassiveData"
+data "DisplayName" "h5d483fae08454212a7e683fd8c02febb72g3"
+data "Description" "h16da3aa90f9f4e13bf09bcdf538545f2ge02"
+data "DescriptionParams" "1d6"
+data "ExtraDescription" "hfd4cee3e7c7d421dac5e5882e6aa1b74826e"
+data "Icon" "PassiveFeature_YMS_Passive_BardicInspiration_Ability"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "Boosts" "RollBonus(SkillCheck,1d6);RollBonus(RawAbility,1d6)"
+data "StatsFunctorContext" "OnAbilityCheck"
+data "StatsFunctors" "RemoveStatus(SELF,YMS_BOOST_BARDIC_INSPIRATION_COMBAT)"
+data "ToggleOnEffect" "VFX_Spells_Cast_Bard_Generic_BodyFX_Passive_Combat_01:Dummy_BodyFX:;"
+
+new entry "YMS_Passive_CombatInspiration_Ability_d8"
+type "PassiveData"
+data "DisplayName" "h5d483fae08454212a7e683fd8c02febb72g3"
+data "Description" "h16da3aa90f9f4e13bf09bcdf538545f2ge02"
+data "DescriptionParams" "1d8"
+data "ExtraDescription" "hfd4cee3e7c7d421dac5e5882e6aa1b74826e"
+data "Icon" "PassiveFeature_YMS_Passive_BardicInspiration_Ability"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "Boosts" "RollBonus(SkillCheck,1d8);RollBonus(RawAbility,1d8)"
+data "StatsFunctorContext" "OnAbilityCheck"
+data "StatsFunctors" "RemoveStatus(SELF,YMS_BOOST_BARDIC_INSPIRATION_COMBAT_D8)"
+data "ToggleOnEffect" "VFX_Spells_Cast_Bard_Generic_BodyFX_Passive_Combat_01:Dummy_BodyFX:;"
+
+
+
+
+// Blessing of the Forge //
+
+new entry "YMS_Song_Blessing_Unlock"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "Icon" "YMS_SongBlessing_Icon"
+data "DisplayName" "h4cafd971g72fag4555g9c7bgabddf902e0fa;1"
+data "Description" "h6a4dc985g9162g46f4g8c5dg1dbf3ac95694;1"
+data "Boosts" "UnlockSpell(YMS_Song_Blessing_Container)"
+
+// Aura of the Forge //
+
+new entry "YMS_Song_Aura_Unlock"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "Icon" "SB_AuraoftheForge_Icon"
+data "DisplayName" "hc82585c5g7135g4f55g9146g5c8a3bec0c70;1"
+data "Description" "h21c30c74g9d46g443fga798gd8c37a5db9cb;1"
+data "Boosts" "UnlockSpell(YMS_Song_Aura)"
+
+// Soul of the Forge //
+
+new entry "YMS_Song_Soul"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "Icon" "SB_SouloftheForge_Icon"
+data "DisplayName" "h8eb1aa49g7113g4373gae18gf3867a93dbe9;1"
+data "Description" "hf92d73b0gff1cg40b3g9226ga900d784de10;1"
+data "BoostContext" "OnCreate;OnEquip"
+data "Boosts" "Resistance(Fire, Resistant); IF(HasHeavyArmor(context.Source)):AC(1)"
+
+// Saint of the Forge //
+
+new entry "YMS_Song_Saint"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "Icon" "SB_SaintoftheForge_Icon"
+data "DisplayName" "ha0494de0gf4ebg4d68gb94fg049cb21829f0;1"
+data "Description" "h8da186begbf1eg4fc5gbdafg39366ffd7b0b;1"
+data "BoostContext" "OnCreate;OnEquip"
+data "Boosts" "Resistance(Fire, Immune); IF(HasHeavyArmor(context.Source)):Resistance(Slashing, Resistant);IF(HasHeavyArmor(context.Source)):Resistance(Piercing, Resistant);IF(HasHeavyArmor(context.Source)):Resistance(Bludgeoning, Resistant);"
+
+// Blessed Strikes // 
+
+new entry "YMS_Song_BlessedStrikes_Unlock"
+type "PassiveData"
+data "DisplayName" "hdfaf5133g106dg48bbg8424g972b0787779c;1"
+data "Description" "h16a87c1egfbefg4b6eg95b5gdc73742673cb;1"
+data "Icon" "SB_BlessedStrikeForge_Icon"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(YMS_Song_BlessedStrikes)"

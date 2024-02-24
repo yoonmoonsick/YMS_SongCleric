@@ -1,6 +1,6 @@
 # See Also: [The Fox God Deity](https://www.nexusmods.com/baldursgate3/mods/6986)
 
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708616966-526353019.png)
+<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708616966-526353019.png" width="400">
 
 # Introduction: Song Domain
 Few gods truly take on the domain of song as their primary domain, for it is a domain based on spreading the influence of a deity that the cleric worships, with tunes about the servants and deeds of the god. However, gods of music and stories, such as Apollo, Odin, Lliira, and Milil, are more likely to encourage their followers to spread their influence through song. Many of these deities encourage their clerics to go to homes caroling about the good path their deity can set the worried people on, and make their lives greater as a result.
@@ -9,7 +9,7 @@ Inspired by [Cleric Domain - Song Domain by Blackbando](https://www.gmbinder.com
 
 Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/432).
 
-![](https://staticdelivery.nexusmods.com/mods/3474/images/6986/6986-1708621663-1642701373.png)
+<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/6986/6986-1708621663-1642701373.png" width="400">
 
 ## Progression
 
@@ -18,27 +18,21 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 - Proficiency: **Rapiers**(equipment), **Musical Instruments**(equipment), **Performance**(skill)
 - **Godly Gospel**: Similar to Bardic Inspiration, you can use this feature a number of times equal to your Wisdom modifier. You regain all expended uses of it after a Long Rest.
 - Spell: Vicious Mockery, Friends, Charm Person
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622136-1399065856.png)
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622146-111920535.png)
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622141-1854689135.png)
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622151-32948570.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622136-1399065856.png" width="400">
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622146-111920535.png" width="400">
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622141-1854689135.png" width="400">
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622151-32948570.png" width="400">
 
 ### Level 2
 
 - Chanel Divinity: **Song of the Rest**
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622156-804199808.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622156-804199808.png" width="400">
 
 ### Level 3
 
 - **Combat Gospel**: Similar to Combat Inspiration
 - Spell: Enhance Ability, Calm Emotions
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622162-1247542656.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622162-1247542656.png" width="400">
 
 ### Level 5
 
@@ -47,21 +41,18 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 ### Level 6
 
 - **Improved Godly Gospel**: You regain all expended uses of Godly Gospel after a Short or Long Rest.
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622168-1879026983.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622168-1879026983.png" width="400">
 
 ### Level 7
 
 - Chanel Divinity: **Luring Song**(Similar to Harpy's)
 - Spell: Confusion
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622174-1588336963.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622174-1588336963.png" width="400">
 
 ### Level 8
 
 - **Potent Spellcasting**
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622180-1991534437.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622180-1991534437.png" width="400">
 
 ### Level 9
 
@@ -74,15 +65,15 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 ### Level 12
 
 - Chanel Divinity: **Inspiring Concert**(Granting Godly Gospel to allies within 18m, usable once per long rest.)
-
-![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622186-1033640301.png)
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622186-1033640301.png" width="400">
 
 ## Items
 
 - **Cap of Curing** - Soothing Songs: When you inspire an ally using Bardic Inspiration or **Combat Gospel**, they also regain 1~6 hit points.
-- ![Cap of Curing](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789244-382251618.png) {: width="400" height="300"}
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789244-382251618.png" width="400">
 - **Blazer of Benevolence** - Remedial Rhytmes: When you inspired an ally using Bardic Inspiration or **Combat Cospel**, you gain 4 temporary hit points.
-- ![Blazer of Benevolence](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789292-386512376.png) {: width="400" height="300"}
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789292-386512376.png" width="400">
+
 
 ## 소개: 노래 권역
 
@@ -137,7 +128,6 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 ## 아이템
 
 - **치유의 모자** - 포근한 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 아군이 1~6 생명력을 회복합니다.
-- ![치유의 모자](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789261-708481023.png) {: width="400" height="300"}
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789261-708481023.png" width="400">
 - **박애의 블레이저** - 치유의 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 자신은 4 임시 생명력을 얻습니다.
-- ![박애의 블레이저](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789302-170606461.png) {: width="400" height="300"}
-
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789302-170606461.png" width="400">

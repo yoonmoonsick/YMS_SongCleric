@@ -50,7 +50,6 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 
 ![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622168-1879026983.png)
 
-
 ### Level 7
 
 - Chanel Divinity: **Luring Song**(Similar to Harpy's)
@@ -77,6 +76,13 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 - Chanel Divinity: **Inspiring Concert**(Granting Godly Gospel to allies within 18m, usable once per long rest.)
 
 ![](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708622186-1033640301.png)
+
+## Items
+
+- **Cap of Curing** - Soothing Songs: When you inspire an ally using Bardic Inspiration or **Combat Gospel**, they also regain 1~6 hit points.
+- ![Cap of Curing](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789244-382251618.png) | width=400
+- **Blazer of Benevolence** - Remedial Rhytmes: When you inspired an ally using Bardic Inspiration or **Combat Cospel**, you gain 4 temporary hit points.
+- ![Blazer of Benevolence](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789292-386512376.png) | width=400
 
 ## 소개: 노래 권역
 
@@ -127,3 +133,11 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 ### 12레벨
 
 - 신성한 권능: **신성한 공연**(주변 18m의 아군에게 경건한 가스펠 부여, 긴 휴식 당 한 번 사용 가능)
+
+## 아이템
+
+- **치유의 모자** - 포근한 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 아군이 1~6 생명력을 회복합니다.
+- ![치유의 모자](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789261-708481023.png) | width=400
+- **박애의 블레이저** - 치유의 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 자신은 4 임시 생명력을 얻습니다.
+- ![박애의 블레이저](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789302-170606461.png) | width=400
+

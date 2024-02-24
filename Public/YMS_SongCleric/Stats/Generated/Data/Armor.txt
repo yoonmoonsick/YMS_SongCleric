@@ -1,0 +1,40 @@
+new entry "MAG_Bard_TempHP_Armor"
+type "Armor"
+using "ARM_Leather_Body"
+data "RootTemplate" "947dbbe3-19e3-4b96-ba5a-14750f0acc29"
+data "ValueLevel" "3"
+data "ValueUUID" "be545ee9-311c-4ab8-ab14-fefcc552cace"
+data "Rarity" "Uncommon"
+data "PassivesOnEquip" "MAG_BardicInspiration_TempHP_Armor_Passive"
+data "Unique" "1"
+
+new entry "MAG_BardicInspiration_TempHP_Armor_Passive"
+type "PassiveData"
+// Remedial Rhymes
+data "DisplayName" "he9a5c95cg7474g4851ga18bg01cb649d370a;2"
+// When you inspire an ally using <LSTag Type="Spell" Tooltip="Target_BardicInspiration">Bardic Inspiration</LSTag>, you gain [1].
+data "Description" "hc9fda2a42548454fb7b404d0edd92edbaa9d;3"
+data "DescriptionParams" "GainTemporaryHitPoints(4)"
+data "TooltipPermanentWarnings" "8892b93b-721f-4b99-b9b4-05ac25aadb33"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Target_BardicInspiration') or SpellId('Target_BardicInspiration_Combat') or SpellId('YMS_Target_BardicInspiration_Combat') or SpellId('YMS_Target_BardicInspiration')"
+data "StatsFunctors" "ApplyStatus(SELF, MAG_TEMPORARY_HP_BARDIC_INSPIRATION, 100, -1)"
+
+new entry "MAG_Bard_HealingBardicInspiration_Hat"
+type "Armor"
+using "_Head_Magic"
+data "RootTemplate" "cfbd013c-f24d-4430-be13-d7bfafd48709"
+data "Rarity" "Uncommon"
+data "PassivesOnEquip" "MAG_BardicInspiration_Heal_Hat_Passive"
+data "Unique" "1"
+
+new entry "MAG_BardicInspiration_Heal_Hat_Passive"
+type "PassiveData"
+// Soothing Songs
+data "DisplayName" "h35799805g0fa7g4fb2g93acg8938def071f7;3"
+// When you inspire an ally using <LSTag Type="Spell" Tooltip="Target_BardicInspiration">Bardic Inspiration</LSTag>, they also regain [1].
+data "Description" "haa12a22ae21646d38f65f71287e2dad826be;3"
+data "DescriptionParams" "RegainHitPoints(1d6)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Target_BardicInspiration') or SpellId('Target_BardicInspiration_Combat') or SpellId('YMS_Target_BardicInspiration_Combat') or SpellId('YMS_Target_BardicInspiration')"
+data "StatsFunctors" "RegainHitPoints(1d6)"

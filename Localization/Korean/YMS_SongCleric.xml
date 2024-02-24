@@ -30,4 +30,6 @@
     <content contentuid="hade37583a59f42a08f4be2644589c5fbdae3" version="1">마법의 선율로 주변 크리처를 &lt;LSTag Type="Status" Tooltip="LURING_SONG"&gt;유혹&lt;/LSTag&gt;합니다. 행동, 보조 행동, 대응을 사용할 수 없고 이동 속도가 절반으로 감소합니다. &lt;br&gt;&lt;br&gt;행동 불능 상태가 되거나 집중이 깨지면 종료됩니다.</content>
     <content contentuid="hb088893c6c0245e7bb2f0e924872ef96f943" version="1">감동적인 공연</content>
     <content contentuid="heec73009a06b46f5adb1786bd62e139f9gcb" version="1">당신이 연주하는 멜로디가 모든 전투의 흐름을 바꿀 수 있습니다. 자신의 소리를 들을 수 있는 18m 이내의 아군에게 경건한 가스펠을 부여합니다.&lt;br&gt;&lt;br&gt;이 기능을 다시 사용하려면 긴 휴식을 취해야 합니다.</content>
+	<content contentuid="hc9fda2a42548454fb7b404d0edd92edbaa9d" version="3">&lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;바드의 격려&lt;/LSTag&gt; 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 아군을 격려하면, 자신은 [1]을 얻습니다.</content>
+    <content contentuid="haa12a22ae21646d38f65f71287e2dad826be" version="3">&lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;바드의 격려&lt;/LSTag&gt; 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 아군을 격려하면, 아군이 [1]을 회복합니다.</content>
 </contentList>

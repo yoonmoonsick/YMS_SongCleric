@@ -1,6 +1,6 @@
 # See Also: [The Fox God Deity](https://www.nexusmods.com/baldursgate3/mods/6986)
 
-<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708616966-526353019.png" width="400">
+<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708616966-526353019.png">
 
 # Introduction: Song Domain
 Few gods truly take on the domain of song as their primary domain, for it is a domain based on spreading the influence of a deity that the cleric worships, with tunes about the servants and deeds of the god. However, gods of music and stories, such as Apollo, Odin, Lliira, and Milil, are more likely to encourage their followers to spread their influence through song. Many of these deities encourage their clerics to go to homes caroling about the good path their deity can set the worried people on, and make their lives greater as a result.
@@ -9,7 +9,7 @@ Inspired by [Cleric Domain - Song Domain by Blackbando](https://www.gmbinder.com
 
 Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/432).
 
-<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/6986/6986-1708621663-1642701373.png" width="400">
+<img src ="https://staticdelivery.nexusmods.com/mods/3474/images/6986/6986-1708621663-1642701373.png">
 
 ## Progression
 

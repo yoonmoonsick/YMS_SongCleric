@@ -84,6 +84,7 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 - **Blazer of Benevolence** - Remedial Rhytmes: When you inspired an ally using Bardic Inspiration or **Combat Cospel**, you gain 4 temporary hit points.
 - ![Blazer of Benevolence](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789292-386512376.png) {: width="400" height="300"}
 
+
 ## 소개: 노래 권역
 
 노래를 독창적으로 그들의 주요 신성 권역으로 채택하는 신은 그리 많지 않습니다. 신도가 숭배하는 신의 사도와 업적에 대한 노래를 통해 통해 신도의 영향력을 확장합니다. 음악과 이야기의 신들인 아폴로, 오딘, 릴리라, 그리고 밀릴과 같은 신들은 자신들의 신도들이 노래를 통해 영향력을 확장하도록 장려하는 경향이 있습니다. 이러한 신들은 자신들의 신도들을 통해 근심을 겪는 사람들에게 자신들의 신이 제시할 수 있는 긍정적인 미래에 대한 노래를 부르고, 그 결과로 사람들의 삶을 더욱 풍요롭게 만들도록 장려합니다.
@@ -140,4 +141,3 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
 - ![치유의 모자](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789261-708481023.png) {: width="400" height="300"}
 - **박애의 블레이저** - 치유의 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 자신은 4 임시 생명력을 얻습니다.
 - ![박애의 블레이저](https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789302-170606461.png) {: width="400" height="300"}
-

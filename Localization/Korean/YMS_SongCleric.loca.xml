@@ -32,4 +32,6 @@
     <content contentuid="heec73009a06b46f5adb1786bd62e139f9gcb" version="1">당신이 연주하는 멜로디가 모든 전투의 흐름을 바꿀 수 있습니다. 자신의 소리를 들을 수 있는 18m 이내의 아군에게 경건한 가스펠을 부여합니다.&lt;br&gt;&lt;br&gt;이 기능을 다시 사용하려면 긴 휴식을 취해야 합니다.</content>
 	<content contentuid="hc9fda2a42548454fb7b404d0edd92edbaa9d" version="3">&lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;바드의 격려&lt;/LSTag&gt; 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 아군을 격려하면, 자신은 [1]을 얻습니다.</content>
     <content contentuid="haa12a22ae21646d38f65f71287e2dad826be" version="3">&lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;바드의 격려&lt;/LSTag&gt; 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 아군을 격려하면, 아군이 [1]을 회복합니다.</content>
+	<content contentuid="hbda67464f7b14102ad582a5f24722c2ace45" version="1">음악적 영감 회복</content>
+	<content contentuid="h8c013c686b6444429d4757e42b1da9626156" version="1">악기를 연주해 바드의 격려 또는 경건한 가스펠 슬롯을 하나 회복합니다.</content>
 </contentList>

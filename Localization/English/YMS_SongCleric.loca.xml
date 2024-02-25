@@ -32,4 +32,6 @@
 	<content contentuid="heec73009a06b46f5adb1786bd62e139f9gcb" version="1">The melodies you play can turn the tide in any fight. As an action, you can begin playing a divine concert, creatures within 60 feet of yourself that can hear you gains a Godly Gospel. &lt;br&gt;&lt;br&gt;After using this feature, you must take a long rest before doing so again.</content>
 	<content contentuid="hc9fda2a42548454fb7b404d0edd92edbaa9d" version="3">When you inspire an ally using &lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;Bardic Inspiration&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration_Combat"&gt;Combat Gospel&lt;/LSTag&gt;, you gain [1].</content>
 	<content contentuid="haa12a22ae21646d38f65f71287e2dad826be" version="3">When you inspire an ally using &lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;Bardic Inspiration&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration_Combat"&gt;Combat Gospel&lt;/LSTag&gt;, they also regain [1].</content>
+	<content contentuid="hbda67464f7b14102ad582a5f24722c2ace45" version="1">Restore Musical Inspiration</content>
+	<content contentuid="h8c013c686b6444429d4757e42b1da9626156" version="1">Play your instrument to restore one of your Bardic Inspiration or Godly Gospel slots.</content>
 </contentList>

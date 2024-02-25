@@ -1,0 +1,9 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_YMS_MAG_BG_Wondrous_Gloves",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Mimic_BardReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_YMS_MAG_BG_Wondrous_Gloves",1,0,0,0,0,0,0,0

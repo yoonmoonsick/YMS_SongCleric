@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="h698168fbg7cbag454cg9947gdbcf8172ea2e" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h88e76cf5da69429a868b98f42a14c605a55b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hb31b98eec8bd4a04b89dd2c55d3a7ebe87d8" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6225f6edfa4d45fa8e8cfe5e178d4ec8e769" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="814306f1-38e3-4073-aa09-bbd5baa0bde3" />
 					<attribute id="Name" type="LSString" value="YMS_MAG_BG_Wondrous_Gloves" />

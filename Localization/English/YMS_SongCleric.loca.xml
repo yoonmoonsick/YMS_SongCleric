@@ -34,9 +34,10 @@
 	<content contentuid="haa12a22ae21646d38f65f71287e2dad826be" version="3">When you inspire an ally using &lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;Bardic Inspiration&lt;/LSTag&gt; or &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration_Combat"&gt;Combat Gospel&lt;/LSTag&gt;, they also regain [1].</content>
 	<content contentuid="hbda67464f7b14102ad582a5f24722c2ace45" version="1">Restore Musical Inspiration</content>
 	<content contentuid="h8c013c686b6444429d4757e42b1da9626156" version="1">Play your instrument to restore one of your Bardic Inspiration or Godly Gospel slots.</content>
-	<content contentuid="h6225f6edfa4d45fa8e8cfe5e178d4ec8e769" version="1">Godly Wondrous Gloves</content>
+	<content contentuid="hb31b98eec8bd4a04b89dd2c55d3a7ebe87d8" version="1">These gloves embody the power of a holy choir, granting the wearer the power of protection. In addition, the wearer gains an additional 1 Godly Gospel. This allows Clerics of the Song Domain to carry the songs of their faith farther afield. Waves of sacred sound reinforce the influence of their lord, heralding the miracles and good fortune that follow.</content>
+	<content contentuid="h6225f6edfa4d45fa8e8cfe5e178d4ec8e769" version="1">Wondrous Gloves of Choir</content>
 	<content contentuid="ha4a622b539e04aa9b763e68a4e8095d85627" version="1">Gospel Choir's Wonder</content>
 	<content contentuid="hd9c267687a6a436c8225ac36251841433820" version="1">Your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; increases by [1]. In addition, if you have &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;Godly Gospel&lt;/LSTag&gt;, you gain [2] more use of it.</content>
-	<content contentuid="h06602299212447478e40ccdb2971fee6806f" version="1">Godly Wondrous Gloves: Godly Gospel Depleted</content>
+	<content contentuid="h06602299212447478e40ccdb2971fee6806f" version="1">Wondrous Gloves of Choir: Godly Gospel Depleted</content>
 	<content contentuid="h4541afe7f1004242ad0a251e433f9b867fbg" version="1">The Godly Gospel charge granted from these gloves is depleted. A &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will restore it.</content>
 </contentList>

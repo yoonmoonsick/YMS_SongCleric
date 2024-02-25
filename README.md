@@ -73,7 +73,11 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
   - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789244-382251618.png" width="400">
 - **Blazer of Benevolence** - Remedial Rhytmes: When you inspired an ally using Bardic Inspiration or **Combat Cospel**, you gain 4 temporary hit points.
   - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789292-386512376.png" width="400">
-
+- ***(New)*** **Wonderous Gloves of Choir** - Gospel Choir's Wonder: Your Armour Class increases by 1. In Addition, if you have Godly Gospel, you gain 1 more use of it.
+  - Where to find: **Tutorial chest in the Nautiloid** and **Act One: Dropped by a mimic near the harper cache in Grymforge(X: -691 Y: 374)**
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708828832-1189161797.png" width="400">
+- **Boots of Brilliance** - Restore Musical Inspiration: Play your instrument to restore one of your Bardic Inspiration or Godly Gospel slots.
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708829204-2016350885.png" width="400">
 
 ## 소개: 노래 권역
 
@@ -131,3 +135,8 @@ Compatible with [Cleric Subclasses](https://www.nexusmods.com/baldursgate3/mods/
   - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789261-708481023.png" width="400">
 - **박애의 블레이저** - 치유의 노래: 바드의 격려 또는 **경건한 가스펠**으로 아군을 격려하면, 자신은 4 임시 생명력을 얻습니다.
   - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708789302-170606461.png" width="400">
+- ***(신규)*** **성가대의 경이로운 장갑** - 복음성가대의 경이: 방어도가 1 증가합니다. 또한 경건한 가스펠을 보유하고 있을 경우, 해당 능력을 1번 더 사용할 수 있습니다.
+  - 찾을 수 있는 곳: **노틸로이드 안의 튜토리얼 상자** 그리고 **1막: 절망의 용광로의 하퍼 보급품 근처(X: -691 Y: 374)의 미믹 전리품**
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708828841-684547169.png" width="400">
+- **맵시의 장화** - 음악적 영감 회복: 악기를 연주해 바드의 격려 또는 경건한 가스펠 슬롯을 하나 회복합니다.
+  - <img src ="https://staticdelivery.nexusmods.com/mods/3474/images/7049/7049-1708829211-2041314665.png" width="400">

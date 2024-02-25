@@ -34,4 +34,9 @@
     <content contentuid="haa12a22ae21646d38f65f71287e2dad826be" version="3">&lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;바드의 격려&lt;/LSTag&gt; 또는 &lt;LSTag Type="Spell" Tooltip="YMS_Target_BardicInspiration"&gt;경건한 가스펠&lt;/LSTag&gt;으로 아군을 격려하면, 아군이 [1]을 회복합니다.</content>
 	<content contentuid="hbda67464f7b14102ad582a5f24722c2ace45" version="1">음악적 영감 회복</content>
 	<content contentuid="h8c013c686b6444429d4757e42b1da9626156" version="1">악기를 연주해 바드의 격려 또는 경건한 가스펠 슬롯을 하나 회복합니다.</content>
+    <content contentuid="h6225f6edfa4d45fa8e8cfe5e178d4ec8e769" version="1">경건의 기이한 장갑</content>
+	<content contentuid="ha4a622b539e04aa9b763e68a4e8095d85627" version="1">복음성가대의 경이</content>
+	<content contentuid="hd9c267687a6a436c8225ac36251841433820" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;방어도&lt;/LSTag&gt;가 [1] 증가합니다. 또한, &lt;LSTag Type="Status" Tooltip="YMS_BOOST_BARDIC_INSPIRATION"&gt;경건한 가스펠&lt;/LSTag&gt;을 보유하고 있을 경우, 해당 능력을 [2]번 더 사용할 수 있습니다.</content>
+	<content contentuid="h06602299212447478e40ccdb2971fee6806f" version="1">경건의 기이한 장갑: 경건한 가스펠 고갈</content>
+	<content contentuid="h4541afe7f1004242ad0a251e433f9b867fbg" version="1">이 장갑을 통해 얻은 경건한 가스펠 횟수가 고갈됐습니다. &lt;LSTag Tooltip="LongRest"&gt;긴 휴식&lt;/LSTag&gt;을 취하면 회복됩니다.</content>
 </contentList>
